@@ -1,0 +1,1 @@
+This is my resume, outlining my coding skills and "other skills", formatted as a JSON object.
